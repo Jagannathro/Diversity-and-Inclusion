@@ -21,8 +21,7 @@ Repository Contents
 
 ## Screenshots
 ![image]([https://github.com/MrChauhan6465/Diversity_Inclusion_PWC_PowerBi/assets/89354259/5e5621ba-2d83-47ce-94e9-6254b8266d22](https://github.com/Jagannathro/Diversity-and-Inclusion/blob/main/d1.png))
-![image](https://github.com/Jagannathro/Diversity-and-Inclusion/blob/main/d2.png)
-![Image](https://github.com/Jagannathro/Diversity-and-Inclusion/blob/main/d2.png)
+![image]([https://github.com/MrChauhan6465/Diversity_Inclusion_PWC_PowerBi/assets/89354259/5e5621ba-2d83-47ce-94e9-6254b8266d22](https://github.com/Jagannathro/Diversity-and-Inclusion/blob/main/d2.png))
 
 
 ## Acknowledgments
