@@ -22,7 +22,10 @@ Repository Contents
 ## Screenshots
 ![image](https://github.com/Jagannathro/Diversity-and-Inclusion/blob/main/d1.png)
 ![image](https://github.com/Jagannathro/Diversity-and-Inclusion/blob/main/d2.png)
+![image](https://github.com/Jagannathro/Diversity-and-Inclusion/blob/main/d3.png)
 
-
+## Dataset: https://github.com/Jagannathro/Diversity-and-Inclusion/blob/main/03%20Diversity-Inclusion-Dataset.xlsx
+## Dashboard:
+![video](https://github.com/Jagannathro/Diversity-and-Inclusion/blob/main/dashboard.mp4)
 ## Acknowledgments
 I'm grateful to PwC Switzerland for the virtual internship opportunity and the chance to contribute to meaningful change through this project.
